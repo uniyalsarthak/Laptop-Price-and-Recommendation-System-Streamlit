@@ -6,19 +6,16 @@ An end-to-end Machine Learning web application that predicts laptop prices and r
 
 - Laptop Price Prediction
 - Similar Laptop Recommendation
-- Interactive Web Interface
-- Flask Backend
+- Interactive Streamlit Interface
 - Machine Learning Model
 
 ## Tech Stack
 
 - Python
-- Flask
+- Streamlit
 - Scikit-learn
 - XGBoost
-- HTML
-- CSS
-- JavaScript
+
 
 ## Installation
 
