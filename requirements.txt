@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+gunicorn
+numpy
+pandas
+scikit-learn
+scipy
+xgboost
+joblib
+threadpoolctl
+streamlit
